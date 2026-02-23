@@ -92,4 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Feel free to use, modify, and share this workbook for learning and teaching purposes.*
